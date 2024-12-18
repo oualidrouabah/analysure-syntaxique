@@ -1,7 +1,6 @@
 /*
 *   S -> S+S | S-S | S/S | S*S | (S) | id/const 
 *
-*  contact@salimzaidi.com
 *   Remove la recursivitie pour anlyseur LL(1)
 *   S -> T I
 *   I -> + T I | − T I | ϵ
